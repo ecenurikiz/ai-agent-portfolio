@@ -20,3 +20,6 @@ Matematik ve metin analizi tool'larını aynı anda yönetebilen bir agent.
 Bu projeler, Hugging Face'in ücretsiz AI Agents Course'unu takip ederek geliştirildi. 
 Her projede karşılaşılan zorluklar ve alınan dersler, ilgili klasörün kendi README'sinde 
 detaylandırılmıştır.
+### [Multi-Agent Sistemi](./multiagent)
+Bir Manager Agent'ın, araştırma görevini kendi yönettiği bir Web Agent'a devrettiği, 
+koordineli çalışan bir agent sistemi.
