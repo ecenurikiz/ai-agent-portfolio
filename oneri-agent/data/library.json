@@ -1,0 +1,20 @@
+[
+    {
+        "baslik": "Dune",
+        "tur": "Bilim kurgu",
+        "aciklama": "Çöl gezegeni Arrakis'te güç mücadelesi ve kehanetler üzerine epik bir roman.",
+        "puan": 9.0
+    },
+    {
+        "baslik": "Yüzüklerin Efendisi",
+        "tur": "Fantastik",
+        "aciklama": "Orta Dünya'da kötülüğe karşı bir yüzüğü yok etmek için çıkılan destansı yolculuk.",
+        "puan": 9.5
+    },
+    {
+        "baslik": "Interstellar",
+        "tur": "Bilim kurgu",
+        "aciklama": "İnsanlığın hayatta kalması için uzayda yeni bir yaşanabilir gezegen arayışı.",
+        "puan": 8.6
+    }
+]
